@@ -1,6 +1,6 @@
-# GitCommands
+GitCommands
 
-## Список корисних команд для роботи з git
+Список корисних команд для роботи з git
 
 1. git clone - копіює репозиторій(папку з файлами) на компютер
 2. git branch "branchName" - створює гілку з назвою "branchName"
